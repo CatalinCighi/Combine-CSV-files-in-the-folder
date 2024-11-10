@@ -1,0 +1,40 @@
+{
+    "BankA": {
+      "Bank_Name": "CEC",
+      "Bank_ID": "CEC",
+      "Accounts": [
+        {
+          "Account_Name": "Savings Account",
+          "Account_ID": "RO53C"
+        },
+        {
+          "Account_Name": "Checking Account",
+          "Account_ID": "RO83C"
+        }
+      ]
+    },
+    "BankB": {
+      "Bank_Name": "ProCredit",
+      "Bank_ID": "PRC",
+      "Accounts": [
+        {
+          "Account_Name": "Business Account",
+          "Account_ID": "BA987654"
+        },
+        {
+          "Account_Name": "Investment Account",
+          "Account_ID": "IA123789"
+        }
+      ]
+    },
+    "BankC": {
+      "Bank_ID": "BC9101",
+      "Accounts": [
+        {
+          "Account_Name": "Corporate Account",
+          "Account_ID": "CA111222"
+        }
+      ]
+    }
+  }
+  
